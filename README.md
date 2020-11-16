@@ -3,7 +3,7 @@ I'm a software engineering undergrad who is passionate in full stack web develop
 
 - 🔭 I’m currently working on full stack ecommerce site
 
-- 🌱 I’m currently learning React and Python
+- 🌱 I’m currently learning [!react](https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/react.png) and [!Python](https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/python.png)
 
 - 💬 Ask me about anything, I am happy to help
 
