@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Kunal Mahato</h1>
-<h3 align="center">I'm a software engineering undergrad who is passionate in full stack web development.</h3>
+### Hi 👋, I'm Kunal Mahat
+I'm a software engineering undergrad who is passionate in full stack web development.
 
 - 🔭 I’m currently working on full stack ecommerce site
 
