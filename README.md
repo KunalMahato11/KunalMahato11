@@ -3,11 +3,11 @@ I'm a software engineering undergrad who is passionate in full stack web develop
 
 - 🔭 I’m currently working on full stack ecommerce site
 
-- 🌱 I’m currently learning ![react](https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/react.png) and ![python](https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/python.png)
+- 🌱 I’m currently learning react and python
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me [GMAIL](kunalmahato11@gmail.com)
+- 📫 How to reach me [email](kunalmahato11@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IBaNvPlbi2jFyNIyPbBxPKjN42CkgKsL/view?usp=sharing)
 
