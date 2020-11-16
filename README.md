@@ -9,7 +9,7 @@ I'm a software engineering undergrad who is passionate in full stack web develop
 
 - 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me [](kunalmahato11@gmail.com)
+- 📫 How to reach me : kunalmahato11@gmail.com
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IBaNvPlbi2jFyNIyPbBxPKjN42CkgKsL/view?usp=sharing)
 
