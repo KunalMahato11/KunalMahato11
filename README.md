@@ -1,4 +1,4 @@
-### Hi     <img src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/hi.gif" width="40px"> I'm Kunal Mahato
+### Hi <img src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/hi.gif" width="40px" margin-left= "5px"> I'm Kunal Mahato
 I'm a software engineering undergrad who is passionate in full stack web development.
 
 - 🔭 I’m currently working on full stack ecommerce site
