@@ -18,10 +18,10 @@ A software engineering undergrad who is passionate in Full Stack Web Development
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/kunal-mahato-6ab76318b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunal-mahato-6ab76318b" height="20" width="30" /></a>
-<a href="https://www.codechef.com/users/mkunal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mkunal11" height="30" width="40" /></a> 
-<a href="https://www.hackerrank.com/kunalmahato11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kunalmahato11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mkunal_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mkunal_11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mkunal_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mkunal_11" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mkunal11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mkunal11" height="20" width="30" /></a> 
+<a href="https://www.hackerrank.com/kunalmahato11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kunalmahato11" height="20" width="30" /></a>
+<a href="https://codeforces.com/profile/mkunal_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mkunal_11" height="20" width="30" /></a>
+<a href="https://www.leetcode.com/mkunal_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mkunal_11" height="20" width="30" /></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
