@@ -1,5 +1,5 @@
 ### Hi <img src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/hi.gif" width="30px"> I'm Kunal Mahato
-I'm a software engineering undergrad who is passionate in full stack web development.
+a software engineering undergrad who is passionate in Full Stack Web Development. I'm a Microsoft Learn Student Ambassador.
 
 
 <img align="right" alt="GIF" src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/coding.gif" width="500" height="320" />
@@ -12,7 +12,7 @@ I'm a software engineering undergrad who is passionate in full stack web develop
 
 - 📫 How to reach me : kunalmahato11@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IBaNvPlbi2jFyNIyPbBxPKjN42CkgKsL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z84OhS7ViyJHzqnaUZZD64QlibRqqJOc/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
