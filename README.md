@@ -1,5 +1,5 @@
 ### Hi <img src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/hi.gif" width="30px"> I'm Kunal Mahato
-a software engineering undergrad who is passionate in Full Stack Web Development. I'm a Microsoft Learn Student Ambassador.
+A software engineering undergrad who is passionate in Full Stack Web Development. I'm a Microsoft Learn Student Ambassador.
 
 
 <img align="right" alt="GIF" src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/coding.gif" width="500" height="320" />
