@@ -11,7 +11,7 @@ Dedicated and results-oriented DevOps Engineer with two years of hands-on experi
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z84OhS7ViyJHzqnaUZZD64QlibRqqJOc/view?usp=sharing)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunalmahato11&theme=tokyonight&show_icons=true&locale=en" alt="kunalmahato11" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kunalmahato11&theme=tokyonight&show_icons=true&locale=en" alt="kunalmahato11" />
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
