@@ -1,6 +1,8 @@
 ### Hi <img src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/hi.gif" width="30px"> I'm Kunal Mahato
 Dedicated and results-oriented DevOps Engineer with two years of hands-on experience in streamlining processes for optimal efficiency. Proficient in a wide range of technologies including Azure, Docker, Kubernetes, Azure DevOps, CI/CD pipelines, and automation frameworks. I am passionate about leveraging automation to optimize workflows, minimize downtime, and enhance overall system reliability. My proactive approach to problem-solving and strong communication skills enable me to collaborate effectively with cross-functional teams, driving innovation and driving business success.
+<pre>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kunalmahato11&theme=tokyonight&show_icons=true&locale=en" alt="kunalmahato11" />
+</pre>
 - 🔭 Working on automating deployment process.
 
 - 🌱 I’m currently learning Kubernetes.
