@@ -5,7 +5,7 @@ Dedicated and results-oriented DevOps Engineer with two years of hands-on experi
 <!---
 <img align="right" alt="GIF" src="https://github.com/KunalMahato11/KunalMahato11/blob/main/assets/coding.gif" width="500" height="320" />
 -->
-- 🔭 I’m currently working on automating deployment process.
+- 🔭 Working on automating deployment process.
 
 - 🌱 I’m currently learning Kubernetes.
 
