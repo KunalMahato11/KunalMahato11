@@ -14,6 +14,7 @@ Dedicated and results-oriented DevOps Engineer with two years of hands-on experi
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z84OhS7ViyJHzqnaUZZD64QlibRqqJOc/view?usp=sharing)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalmahato11&theme=tokyonight&show_icons=true&locale=en" alt="kunalmahato11" /></pre>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -23,4 +24,4 @@ Dedicated and results-oriented DevOps Engineer with two years of hands-on experi
 <a href="https://codeforces.com/profile/mkunal_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mkunal_11" height="20" width="30" /></a>
 <a href="https://www.leetcode.com/mkunal_11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mkunal_11" height="20" width="30" /></a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalmahato11&theme=tokyonight&show_icons=true&locale=en" alt="kunalmahato11" /></pre>
+
